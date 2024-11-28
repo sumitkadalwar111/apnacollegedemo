@@ -1,3 +1,6 @@
 # apnacollegedemo
  this is my first git reporitory 
-Author sumit kadalwar
+ <br>
+Author 
+
+ <h1> sumit kadalwar</h1>
